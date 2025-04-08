@@ -8,7 +8,7 @@ Recorded on Wednesday, April 2, 2025, at 12PM EDT
 
 ## Transcript
 
-**Jeremy Osborn:** Good morning, afternoon, evening, whatever it might be for folks joining us. Thank you so much. My name is Jeremy Osborn. I am the director of learning for [Aquent Gymnasium](https://thegymnasium.com/).
+**Jeremy Osborn:** Good morning, afternoon, evening, whatever it might be for folks joining us. Thank you so much. My name is Jeremy Osborn. I am the director of learning for Aquent Gymnasium.
 
 I’m here with my colleague Andrew Miller, who is the program director of Gymnasium. And we are joined by a guest, Aaron Gustafson. And we’ll get into a little bit more about what he does in just a moment.
 
@@ -24,9 +24,9 @@ But we’re really grateful to have everyone join us. We’re going to be talkin
 
 Today, we’re going to discuss some of the ways that AI is making a meaningful difference for people with disabilities or impairments. And that’s going to range across the board from things such as generating alt text for images, voice preservation and recognition, text transformation, all sorts of things.
 
-Aaron, first of all, welcome to our little live stream here.
+Aaron, first of all, welcome to our little livestream here.
 
-**Aaron Gustafson:** Cozy little live stream.
+**Aaron Gustafson:** Cozy little livestream.
 
 **Jeremy Osborn:** Yep. Cozy.
 
@@ -38,7 +38,7 @@ Aaron, first of all, welcome to our little live stream here.
 
 **Aaron Gustafson:** I’ve earned all this gray.
 
-**Jeremy Osborn:** [LAUGHS] And we should also mention that we run a free online course platform called Gymnasium. That’s kind of what we do. In addition to these live streams. Aaron also is one of our first instructors. And we can talk a little bit about your background. But you kind of started like in web development and web design back in the day. And you did our course Modern Web Design, which is —
+**Jeremy Osborn:** [LAUGHS] And we should also mention that we run a free online course platform called [Gymnasium](https://thegymnasium.com). That’s kind of what we do. In addition to these live streams. Aaron also is one of our first instructors. And we can talk a little bit about your background. But you kind of started like in web development and web design back in the day. And you did our course Modern Web Design, which is —
 
 **Andrew Miller:** One of our most popular classes. That is still one of our most popular classes.
 
