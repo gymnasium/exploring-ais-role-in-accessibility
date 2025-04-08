@@ -38,7 +38,7 @@ Aaron, first of all, welcome to our little livestream here.
 
 **Aaron Gustafson:** I’ve earned all this gray.
 
-**Jeremy Osborn:** [LAUGHS] And we should also mention that we run a free online course platform called [Gymnasium](https://thegymnasium.com). That’s kind of what we do. In addition to these live streams. Aaron also is one of our first instructors. And we can talk a little bit about your background. But you kind of started like in web development and web design back in the day. And you did our course Modern Web Design, which is —
+**Jeremy Osborn:** [LAUGHS] And we should also mention that we run a free online course platform called [Gymnasium](https://thegymnasium.com). That’s kind of what we do. In addition to these live streams. Aaron also is one of our first instructors. And we can talk a little bit about your background. But you kind of started like in web development and web design back in the day. And you did our course [Modern Web Design](https://thegymnasium.com/courses/modern-web-design/), which is —
 
 **Andrew Miller:** One of our most popular classes. That is still one of our most popular classes.
 
