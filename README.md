@@ -2,7 +2,7 @@
 
 with [Aaron Gustafson](https://www.aaron-gustafson.com/about/), of Microsoft
 
-[Watch the Recording](https://www.youtube.com/live/7ObB4jM-QXU) on Youtube
+[Watch the Recording](https://www.youtube.com/live/7ObB4jM-QXU) on YouTube
 
 Recorded on Wednesday, April 2, 2025, at 12PM EDT
 
