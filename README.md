@@ -114,7 +114,7 @@ We didn’t even have a Argentine Spanish base model, so we had to go with the c
 
 **Aaron Gustafson:** Yeah. This is Brian Jeansonne, is his name.
 
-**Jeremy Osborn:** Brian Jeansonne. OK, great Thank you. All right, so I’m going to just go ahead and play this. This is about 3 minutes and 53 seconds. So we’ll go from here. And if someone can just confirm that the sound is coming through, that would be great too. So here we go.
+**Jeremy Osborn:** Brian Jeansonne. OK, great. Thank you. All right, so I’m going to just go ahead and play this. This is about 3 minutes and 53 seconds. So we’ll go from here. And if someone can just confirm that the sound is coming through, that would be great too. So here we go.
 
 Video: [AI and speech technologies](https://www.youtube.com/watch?v=5FWwM1S8RfE)
 
