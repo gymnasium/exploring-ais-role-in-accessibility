@@ -162,7 +162,7 @@ Kristy Jeansonne: Dang!
 
 Brian Jeansonne: Hey, Kristy, I love you.
 
-Kristy Jeansonne:Oh, my goodness. I can’t believe that, really. Like, that’s really crazy. [CHUCKLES]
+Kristy Jeansonne: Oh, my goodness. I can’t believe that, really. Like, that’s really crazy. [CHUCKLES]
 
 Blair Casey: The biggest opportunities when it comes to emerging technologies is the gap that it can fill, not just here for people with ALS. But you think about anybody whose speech is affected, AI has the ability to increase communication, increase independence. It’s the next wave for accessibility.
 
