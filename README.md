@@ -459,7 +459,7 @@ So they’re another phenomenal organization doing great work. And they’re con
 Thank you so much, Aaron. This was really eye-opening. I think it’s super encouraging to see that people are kind of thinking about the responsible irresponsible uses of AI, and also again, some of the less heralded but meaningful applications of that. So, super encouraging.
 
 Again, for folks who — and I know that one last thing that we’ll do, another link of resources. You’ve written a little bit about this on our favorite web magazine, A List Apart. And there’s a great article that you did there about [opportunities for AI](https://alistapart.com/article/opportunities-for-ai-in-accessibility/), and people should check that out as well.
-s
+
 Andrew, any parting words that you have?
 
 **Andrew Miller:** No, just thank you, Aaron, for sharing this with us. It’s so easy to get caught up in the mire of all the negative press and concerns. And you know, nothing is free, right? Nothing is free. But this is absolutely payoff.
