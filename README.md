@@ -68,7 +68,7 @@ Aaron, first of all, welcome to our little livestream here.
 
 **Aaron Gustafson:** They should be.
 
-**Jeremy Osborn:** They should be. But Ramon maybe behind the scenes can track that down. It would be good to get captions enabled here. So yeah, so your day-to-day — I think when we had a call a couple of weeks ago, it’s kind of curious. Like, what in general do you end up doing, and some of the things that you are responsible for having to do with all things AI and accessible?
+**Jeremy Osborn:** They should be. But Roman maybe behind the scenes can track that down. It would be good to get captions enabled here. So yeah, so your day-to-day — I think when we had a call a couple of weeks ago, it’s kind of curious. Like, what in general do you end up doing, and some of the things that you are responsible for having to do with all things AI and accessible?
 
 **Andrew Miller:** I seem to remember when we asked you, “So you’re involved in a lot of things, so what is your day-to-day?” And I think that was literally the phrase. And when you were done with that inventory of things, that sounded more things than would fit into 24 hours.
 
@@ -122,7 +122,7 @@ But that was actually — the CNV Pro is what we used for the folks at Team Glea
 
 We didn’t even have a Argentine Spanish base model, so we had to go with the closest geographically. So we had to go with the Mexican Spanish one, which was not ideal. So some of the words are mispronounced or sound like he comes from a different region in Argentina. But overall, he was really impressed with how accurate the voice was to his actual voice pre losing the ability to speak.
 
-**Jeremy Osborn:** Well, I think I have that queued up as a screen share, but I need our administrator, Ramon, if that’s possible, for you to share that with our audience. And so again, this is on YouTube here. An example of how Team Gleason helped use the Azure custom neural voice. And let’s —
+**Jeremy Osborn:** Well, I think I have that queued up as a screen share, but I need our administrator, Roman, if that’s possible, for you to share that with our audience. And so again, this is on YouTube here. An example of how Team Gleason helped use the Azure custom neural voice. And let’s —
 
 **Aaron Gustafson:** Yeah. This is Brian Jeansonne, is his name.
 
