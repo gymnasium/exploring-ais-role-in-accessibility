@@ -482,4 +482,4 @@ So there was a point like, when is AI worth it? When is AI worth the extra cycle
 
 **Aaron Gustafson:** Yeah. Thank you for the conversation. I really enjoyed it.
 
-**Jeremy Osborn:** All right. And — [END OF LIVESTREAM]
+**Jeremy Osborn:** All right. And — [END LIVESTREAM]
