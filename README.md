@@ -12,8 +12,8 @@ Recorded on Wednesday, April 2, 2025, at 12PM EDT
 
 - [Gymnasium](https://thegymnasium.com)
 - [Modern Web Design](https://thegymnasium.com/courses/modern-web-design/)
-- [AI and speech technologies](https://www.youtube.com/watch?v=5FWwM1S8RfE)
-- [How to Use Seeing AI - Assistive Technology Tip](https://youtu.be/T0mE8SF-wbs?feature=shared&t=368)
+- [AI and speech technologies](https://www.youtube.com/watch?v=5FWwM1S8RfE) (video)
+- [How to Use Seeing AI - Assistive Technology Tip](https://youtu.be/T0mE8SF-wbs?feature=shared&t=368) (video)
 - [The Question with Trevor Noah](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/the-prompt/)
 - [Global Symbols](https://globalsymbols.com)
 - [Opportunities for AI in Accessibility](https://alistapart.com/article/opportunities-for-ai-in-accessibility/)
