@@ -216,7 +216,7 @@ As I’m sure some of you know, a lot of the voice models that are out there —
 
 **Aaron Gustafson:** On a remote server. Yeah. Yeah. A lot of them, a lot of the voices, even some of the ones that we offer, like I mentioned.
 
-The personal voice one, that is a purely online model. That one is not available offline. Some of the custom neural voice models are able to be run offline. So that’s an option. And then I know other vendors, like Acapela, have offline voice models as well that can be stored and run locally on your machine.
+The personal voice one, that is a purely online model. That one is not available offline. Some of the custom neural voice models are able to be run offline. So that’s an option. And then I know other vendors, like [Acapela](https://www.acapela-group.com), have offline voice models as well that can be stored and run locally on your machine.
 
 **Jeremy Osborn:** OK. Yeah, I guess I’m kind of curious.
 
