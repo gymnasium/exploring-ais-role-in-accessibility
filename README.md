@@ -24,7 +24,7 @@ Recorded on Wednesday, April 2, 2025, at 12PM EDT
 
 I’m here with my colleague Andrew Miller, who is the program director of Gymnasium. And we are joined by a guest, Aaron Gustafson. And we’ll get into a little bit more about what he does in just a moment.
 
-But we’re really grateful to have everyone join us. We’re going to be talking a little bit about the role of AI in accessibility. And this is one of our — how many live streams have we done, Andrew, exactly?
+But we’re really grateful to have everyone join us. We’re going to be talking a little bit about the role of AI in accessibility. And this is one of our — how many livestreams have we done, Andrew, exactly?
 
 **Andrew Miller:** Oh, wow. That’s a really good question. More than a few.
 
@@ -50,7 +50,7 @@ Aaron, first of all, welcome to our little livestream here.
 
 **Aaron Gustafson:** I’ve earned all this gray.
 
-**Jeremy Osborn:** [LAUGHS] And we should also mention that we run a free online course platform called [Gymnasium](https://thegymnasium.com). That’s kind of what we do. In addition to these live streams. Aaron also is one of our first instructors. And we can talk a little bit about your background. But you kind of started like in web development and web design back in the day. And you did our course [Modern Web Design](https://thegymnasium.com/courses/modern-web-design/), which is —
+**Jeremy Osborn:** [LAUGHS] And we should also mention that we run a free online course platform called [Gymnasium](https://thegymnasium.com). That’s kind of what we do. In addition to these livestreams. Aaron also is one of our first instructors. And we can talk a little bit about your background. But you kind of started like in web development and web design back in the day. And you did our course [Modern Web Design](https://thegymnasium.com/courses/modern-web-design/), which is —
 
 **Andrew Miller:** One of our most popular classes. That is still one of our most popular classes.
 
