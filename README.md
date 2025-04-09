@@ -6,6 +6,16 @@ with [Aaron Gustafson](https://www.aaron-gustafson.com/about/), of Microsoft
 
 Recorded on Wednesday, April 2, 2025, at 12PM EDT
 
+## Resources
+
+- [Gymnasium](https://thegymnasium.com)
+- [Modern Web Design](https://thegymnasium.com/courses/modern-web-design/)
+- [AI and speech technologies](https://www.youtube.com/watch?v=5FWwM1S8RfE)
+- [How to Use Seeing AI - Assistive Technology Tip](https://youtu.be/T0mE8SF-wbs?feature=shared&t=368)
+- [The Question with Trevor Noah](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/the-prompt/)
+- [Global Symbols](https://globalsymbols.com)
+- [Opportunities for AI in Accessibility](https://alistapart.com/article/opportunities-for-ai-in-accessibility/)
+
 ## Transcript
 
 **Jeremy Osborn:** Good morning, afternoon, evening, whatever it might be for folks joining us. Thank you so much. My name is Jeremy Osborn. I am the director of learning for Aquent Gymnasium.
@@ -414,7 +424,7 @@ So it’s really helping you to compose sentences quicker because that’s one o
 
 And so this dramatically speeds that up by using speech-to-text, so catching that, and then combining the speech-to-text with a language model to propose potential responses. And then you can choose from those responses or give it a little bit of a hint of a direction you want to go in with your response, and then it will propose a response to you. That’s pretty amazing.
 
-There’s a team at [Global Symbols](https://globalsymbols.com/) that are based in the UK, and they are using image generation to create symbol sets for AAC software that remain thematically visually consistent, but are culturally relevant. So being able to — if you were doing a symbol for a police officer, that police officer will probably look different in Britain, versus Indonesia, versus Thailand, versus Japan, China, et cetera. So being able to do that.
+There’s a team at [Global Symbols](https://globalsymbols.com) that are based in the UK, and they are using image generation to create symbol sets for AAC software that remain thematically visually consistent, but are culturally relevant. So being able to — if you were doing a symbol for a police officer, that police officer will probably look different in Britain, versus Indonesia, versus Thailand, versus Japan, China, et cetera. So being able to do that.
 
 They shared a story with us early on about creating symbols, using generative AI to create symbols so that a young man could participate in the Muslim call to prayer which he had not been able to do with his brothers in years. And so all of a sudden, he had the symbols to be able to do that.
 
