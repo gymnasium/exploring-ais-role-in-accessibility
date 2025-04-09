@@ -274,17 +274,19 @@ So this is actually what I found. This is from an organization, the [Foundation 
 
 And you’re seeing on the left the application itself. And then on the right, obviously someone is filming him as he’s doing this.
 
+Video: [How to Use Seeing AI - Assistive Technology Tip](https://youtu.be/T0mE8SF-wbs?feature=shared&t=368)
+
 [VIDEO PLAYBACK]
 
-Much more clearly.
+Seth Leblond: Much more clearly.
 
 Gentle. Take Picture button.
 
 And for Handwriting Mode to work, we just get ready with our Take Picture button. We double tap.
 
-Processing. A sunset pictorial.
+Seeing AI: Processing. A sunset pictorial.
 
-It actually said, “A sunset pictorial.” Good information. I’ve also been successful in using Handwriting Mode to read very low contrast items like credit cards.
+Seth Leblond: It actually said, “A sunset pictorial.” Good information. I’ve also been successful in using Handwriting Mode to read very low contrast items like credit cards.
 
 That wraps up our six —
 
