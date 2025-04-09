@@ -280,9 +280,9 @@ Video: [How to Use Seeing AI - Assistive Technology Tip](https://youtu.be/T0mE8S
 
 Seth Leblond: Much more clearly.
 
-Gentle. Take Picture button.
+Seeing AI: Gentle. Take Picture button.
 
-And for Handwriting Mode to work, we just get ready with our Take Picture button. We double tap.
+Seth Leblond: And for Handwriting Mode to work, we just get ready with our Take Picture button. We double tap.
 
 Seeing AI: Processing. A sunset pictorial.
 
