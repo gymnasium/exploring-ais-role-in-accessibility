@@ -2,11 +2,11 @@
 
 with [Aaron Gustafson](https://www.aaron-gustafson.com/about/), of Microsoft
 
+Recorded on Wednesday, April 2, 2025, at 12PM EDT
+
 - [Watch the Recording](https://www.youtube.com/live/7ObB4jM-QXU) on YouTube
 - [Explore the Resources](#resources)
 - [Read the Transcript](#transcript)
-
-Recorded on Wednesday, April 2, 2025, at 12PM EDT
 
 ## Resources
 
